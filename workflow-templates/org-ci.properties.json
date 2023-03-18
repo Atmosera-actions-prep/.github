@@ -1,0 +1,12 @@
+{
+    "name": "Octo Organization Workflow",
+    "description": "Octo Organization CI starter workflow.",
+    "categories": [
+        "continuous-integration"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
